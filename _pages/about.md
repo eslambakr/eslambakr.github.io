@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lowell Thomas once said, "Do a little more each day than you think you possibly can." I live by this motto daily. I base all academic, personal, and professional endeavors on it. Striving for excellence is my top priority."
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Lowell Thomas once said, "Do a little more each day than you think you possibly can." I live by this motto daily. I base all academic, personal, and professional endeavors on it. Striving for excellence is my top priority. 
 
 My mission in life is to hold a career position where I can influence the world encouragingly and insightfully. Thus, I continue to hold comprehensive leadership and professional growth opportunities: handling unique situations, communicating, speaking publicly, working with various individuals, and always working towards accomplishing goals efficiently and delivering superior results.
 
