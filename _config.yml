@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eslam BAKR"
-  avatar           : "Personal_Photo.png"
+  avatar           : "Personal_Photo.PNG"
   bio              : "Senior Machine Learning Engineer"
   location         : "Giza, Egypt"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/eslam-bakr-a693a0124"
+  linkedin         : "https://www.linkedin.com/in/eslam-bakr-a693a0124/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
