@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Eslam BAKR"
   avatar           : "Personal_Photo.PNG"
-  bio              : "Senior Machine Learning Engineer"
-  location         : "Giza, Egypt"
+  bio              : "P.h.D student at KAUST"
+  location         : "KAUST, Kingdom of Saudi Arabia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0OEerycAAAAJ&hl=en"
-  email            : "islam.bakr.2017@gmail.com"
+  email            : "eslam.abdelrahman@kaust.edu.sa"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/eslam-bakr-a693a0124/"
+  linkedin         : "eslam-bakr-a693a0124"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
