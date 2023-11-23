@@ -3,19 +3,30 @@ permalink: /education/
 title: "Education"
 ---
 
-### P.h.D Student at KAUST
+<!-- ------------------------------ -->
+![Your Image](../images/Kaust_Logo.png){:width="60" height="30" style="vertical-align: top;"} **P.h.D Student at KAUST**
 
 * From Sep. 2022 - PRESENT.
 * Member of the Vision-CAIR research Lab, at KAUST. [![Link](/images/website.svg)](https://cemse.kaust.edu.sa/vision-cair)
 
-### Remote internship at KAUST
+<div style="clear: both;"></div>
+<!-- ------------------------------ -->
+
+
+<!-- ------------------------------ -->
+![Your Image](../images/Kaust_Logo.png){:width="60" height="30" style="vertical-align: top;"} **Remote internship at KAUST**
 
 * From Nov. 2021 - Aug. 2022.
 * Nine months internship at the Vision-CAIR research Lab, at KAUST. [![Link](/images/website.svg)](https://cemse.kaust.edu.sa/vision-cair)
 * Published a paper at NeurIPS-2022, called ”Look Around and Refer: 2D Synthetic Semantics Knowledge
 Distillation for 3D Visual Grounding”
 
-### M.Sc. in Computer Engineering, Cairo University
+<div style="clear: both;"></div>
+<!-- ------------------------------ -->
+
+
+<!-- ------------------------------ -->
+![Your Image](../images/cairo_logo.png){:width="40" height="40" style="vertical-align: top;"} **M.Sc. in Computer Engineering, Cairo University**
 
 * From Mar. 2019 - May 2022.
 * Finished the introductory phase by finishing 25 credit hours (9 courses). [![Certificate](/images/certificate.svg)](https://drive.google.com/file/d/1JoCRWYRp4NrG1j6239EDb8vhKMzhTEs3/view?usp=sharing)
@@ -35,8 +46,15 @@ Distillation for 3D Visual Grounding”
   9- Technical Language & Seminars.
   </details>
 
-### B.S. in Computer Engineering, Cairo University
+<div style="clear: both;"></div>
+<!-- ------------------------------ -->
+
+<!-- ------------------------------ -->
+![Your Image](../images/cairo_logo.png){:width="40" height="40" style="vertical-align: top;"} **B.S. in Computer Engineering, Cairo University**
 
 * From Sep. 2012 - Jul. 2017.
 * Studied programming, computer architecture, electronics,    communications, waves, and computer networks.
 * Accumulative Grade: 81%.  [![Certificate](/images/certificate.svg)](https://drive.google.com/file/d/15Zvdwr2MMqg3Ma1rwu1dDWCqB2HMBMru/view?usp=sharing)
+
+<div style="clear: both;"></div>
+<!-- ------------------------------ -->
